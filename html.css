@@ -35,7 +35,7 @@ h1{
 .one{
     width:30px;
     height:30px;
-    background:rgb(123, 243, 213);
+    background:rgb(255, 216, 44);
     /*字体大小和颜色*/
     font-size:30px;
     color:white;
@@ -49,12 +49,10 @@ h1{
     top:15px;   
 }
 .one a:link{
-    color: bisque;
+    color: rgb(219, 120, 213);
     text-decoration: none;
 }
-.one a:visited{
-    color: bisque;
-}
+
 .qian{
 transform: translateZ(15px);
 }
@@ -86,6 +84,7 @@ transform: rotateY(360deg)rotateX(360deg)rotateZ(360deg);
 
 .daohang a{
     color: #333;
+
     text-decoration: none;
 }
 
@@ -93,3 +92,46 @@ transform: rotateY(360deg)rotateX(360deg)rotateZ(360deg);
     color: red;
 }
 
+.daohang table{
+    table-layout: fixed; width: 100%;text-align:center;border-collapse:collapse;
+}
+
+.daohangone{
+    width: 25%; background-color: rgb(182, 221, 243);
+}
+
+.daohangtwo{
+    width: 25%;background-color:rgb(78, 235, 201)
+}
+
+.body{
+    width: 90%;
+    height: 100px;
+    margin-left: 30px;
+    border: 1px solid red;
+    overflow-y:auto;
+    overflow-x:hidden;
+    margin-bottom: 20px;
+}
+
+.bodyone{
+    height: 100px;
+}
+
+.bodytwo{
+    height: 200px;
+}
+
+.endpage{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 94%;
+    height: 20px;
+    border-top: 1px solid rgb(100, 100, 100);
+    color: rgba(114, 114, 114, 0.671);
+}
+
+.endpage a{
+    text-decoration: none;
+    color: rgba(216, 71, 245, 0.671);
+}
