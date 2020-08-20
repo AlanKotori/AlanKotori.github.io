@@ -71,20 +71,31 @@ a:hover{
 .body{
     width: 1263.33px;
     height: 4099.2px;
-    background: yellow;
+    /* background: yellow; */
 }
 
 .lunbotutop{
     width: 1263.33px;
     height: 381.79px;
-    background: rgb(156, 216, 252);
+    /* background: rgb(156, 216, 252); */
     margin-bottom: 80px;
 }
+.luntopswiper{
+    width: 1263.33px;
+    height: 22px;
+    /* background: cadetblue; */
+}
+.lunmiswiper{
+    width: 1263.33px;
+    height: 30px;
+    /* background: cadetblue; */
+}
+
 
 .shoplunbotu{
     width: 1263.33px;
     height: 638px;
-    background: rgb(255, 100, 203);
+    /* background: rgb(255, 100, 203); */
     margin-bottom: 100px;
 }
 
@@ -93,7 +104,7 @@ a:hover{
     padding-right: 17px;
     width: 1229.330px;
     height: 604.969px;
-    background: rgb(156, 252, 180);
+    /* background: rgb(156, 252, 180); */
     margin-bottom: 30px;
 }
 
@@ -101,7 +112,7 @@ a:hover{
     width: 1263.33px;
     height: 568px;
     margin-bottom: 100px;
-    background: rgb(252, 156, 156);
+    /* background: rgb(252, 156, 156); */
 }
 
 .chongaishengji{
@@ -110,20 +121,20 @@ a:hover{
     margin-bottom: 100px;
     padding-left: 17px;
     padding-right: 17px;
-    background: rgb(250, 148, 65);
+    /* background: rgb(250, 148, 65); */
 }
 
 .tebiefuw{
     width: 1263.33px;
     height: 523.583px;
     margin-bottom: 100px;
-    background: rgb(4, 167, 17);
+    /* background: rgb(4, 167, 17); */
 }
 
 .joinlancome{
     width: 1263.33px;
     height: 361.89px;
-    background: rgb(236, 142, 149);
+    /* background: rgb(236, 142, 149); */
 }
 .joinlancome img{
     width: 1263.33px;
@@ -133,7 +144,7 @@ a:hover{
 .footer{
     width: 1263.33px;
     height: 818px;
-    background: rgb(124, 91, 0);
+    /* background: rgb(124, 91, 0); */
 }
 
 .footer-top{
@@ -227,7 +238,7 @@ h2{
 .chongaishengjibody{
     width: 1229.33px;
     height: 510.97px;
-    background: cornsilk;
+    /* background: cornsilk; */
 }
 .chongaishengjibody a{
     width: 1229.33px;
