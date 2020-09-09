@@ -122,6 +122,11 @@ transform: rotateY(360deg)rotateX(360deg)rotateZ(360deg);
     height: 200px;
 }
 
+.bodyfive{
+    height: 110px;
+    border: none;
+}
+
 .endpage{
     margin-left: 20px;
     margin-right: 20px;
@@ -134,4 +139,9 @@ transform: rotateY(360deg)rotateX(360deg)rotateZ(360deg);
 .endpage a{
     text-decoration: none;
     color: rgba(216, 71, 245, 0.671);
+}
+
+#bodyfive_kp{
+    text-align: center;
+    color: rgb(247, 120, 120);
 }
